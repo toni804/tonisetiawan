@@ -1,9 +1,9 @@
-$ Pkg upadate && upadate
-$ Pkg install python2
-$ Pip2 install mechanize
-$ Pip2 install requests
-$ Pkg install git
-$ Git clone https://github.com/toni804/newthoni
-$ Cd newthoni
+$ pkg upadate && upadate
+$ pkg install python2
+$ pip2 install mechanize
+$ pip2 install requests
+$ pkg install git
+$ git clone https://github.com/toni804/newtoni
+$ cd newtoni
 $ ls
-$ Python2 newthoni.py
+$ python2 newtoni.py
